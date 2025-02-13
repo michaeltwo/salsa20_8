@@ -1,6 +1,5 @@
 # CS_HW1
-
-Weihua Zheng, B00982823
+XXXXX
 
 ## Instructions
 
